@@ -94,10 +94,10 @@ Database: `fraud_detection_db` | Tool: DBeaver + PostgreSQL
 
 **Query 3 — Top 10 Fraud Transactions**
 - Every top fraud transaction hits the exact $10M limit
-- Classic money laundering pattern — maximum extraction per transaction
+- Pattern suggests repeated maximum-limit extraction behavior
 
 **Query 4 — Fraud by Time Step**
-- Certain time steps show 100% fraud rate
+- Certain isolated time windows show concentrated fraud activity
 - Early steps (step 22) show highest fraud volume
 - Time-based rules could be an effective fraud detection layer
 
