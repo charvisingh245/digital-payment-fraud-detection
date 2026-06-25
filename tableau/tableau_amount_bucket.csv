@@ -1,0 +1,5 @@
+"amount_bucket","total_count","fraud_count","fraud_rate_pct"
+Above 1M,130507,2706,2.07
+"500K to 1M",183794,1158,0.63
+Below 100K,836112,1707,0.20
+"100K to 500K",1619996,2642,0.16

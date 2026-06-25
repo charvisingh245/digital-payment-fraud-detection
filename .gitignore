@@ -1,0 +1,6 @@
+.DS_Store
+data/
+sql/fraud_model_data.csv
+sql/fraud_transactions.csv
+tableau/tableau_main.csv
+.ipynb_checkpoints/
