@@ -122,7 +122,7 @@ LIMIT 15;
 -- ============================================
 -- 6. Naive Flag vs Actual Fraud
 -- Q: How well does the dataset's built-in isFlaggedFraud rule
---    catch real fraud cases? (Motivates why an ML model is needed.)
+--    identify actual fraud cases?
 -- ============================================
 
 
