@@ -1,5 +1,5 @@
 -- ============================================
--- Digital Payment Fraud Detection — SQL Analysis
+-- Digital Payment Fraud Detection - SQL Analysis
 -- Dataset: PaySim
 -- ============================================
 
